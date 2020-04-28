@@ -1,1 +1,2 @@
 Testing for coding on GIT
+Testing whether files ask for adding to the staging
